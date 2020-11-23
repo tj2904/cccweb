@@ -1,0 +1,24 @@
+section {
+    color: green;
+}
+
+
+p {
+    font-family: sans-serif;
+    font-size: 130%;
+}
+
+
+.discounted_bargain {
+    color: red;
+}
+
+.damaged_stock {
+    background: yellow;
+}
+
+
+
+#special_section {
+    background: yellow;
+}
