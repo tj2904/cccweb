@@ -34,7 +34,7 @@ img {
 
 header {
     background: linear-gradient(90deg, #f5f5f5, #ff6, #f5f5f5);
-    box-shadow: 0px 0px 10px 0px;
+    box-shadow: 0 0 10px 0;
     padding: 2em;
     margin: 0 0 2em 0;   
 }
@@ -80,7 +80,7 @@ footer {
     text-align: center;
     padding: 1em;
     background: linear-gradient(90deg, #f5f5f5, #ff6, #f5f5f5);
-    box-shadow: 0px 0px 10px 0px;
+    box-shadow: 0 0 10px 0;
 }
 
 .description {
