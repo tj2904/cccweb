@@ -1,0 +1,22 @@
+#container {
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#box-1 {
+    background-color: honeydew;
+    width: 75%;
+    /* height: auto; */
+}
+
+#box-2 {
+    background-color: moccasin;
+    width: 25%;
+    height: 10em;
+}
+
+#box-3 {
+    background-color: skyblue;
+    width: 100%;
+}
