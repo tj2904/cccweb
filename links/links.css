@@ -1,0 +1,58 @@
+* {
+    background: lightyellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+section {
+    width: 80%;
+    margin: auto;
+    border-style: dotted;
+    border-color: blue;
+}
+
+h1 {
+    font-size: 150%
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+ li {
+    list-style-type: none;
+    margin: 0.2em;
+}
+
+#extlinks li a {
+    padding: 0.5rem;
+	background: #BB0000;
+	color: white;
+	border-radius: 0.25rem;
+	text-decoration: none;
+	display: block;
+}
+
+#intlinks li a {
+    padding: 0.5rem;
+	background: green;
+	color: white;
+	border-radius: 0.25rem;
+	text-decoration: none;
+	display: block;
+}
+
+article {
+    text-align: justify;
+}
+ p::first-letter {
+     font-size: 175%;
+     font-weight: bold;
+ }
+
+
+footer {
+    display: flex;
+    justify-content: center;
+}
